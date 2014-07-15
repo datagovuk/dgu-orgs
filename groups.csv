@@ -149,6 +149,7 @@ broads-authority,4cdb1dfa-c9bc-4ef2-89b3-9fe70512d339,Broads Authority,pending,2
 bromley-pct,c553c62b-990a-4fcc-be93-db28a6297d81,Bromley PCT,approved,2012-06-27T14:55:17.045514,,,True,national-health-service,active,organization,,,,,,,,,http://www.whatdotheyknow.com/body/nhs_bromley,,,,,
 bromsgrove-district-council,93d44489-3643-4d95-a289-2a89d6f08b2f,Bromsgrove District Council,pending,2013-11-04T11:10:48.580180,"http://www.bromsgrove.gov.uk/cms/default.aspx
 ",,True,local-authorities,active,organization,,local-council,,,,,,,,,,,,
+broxbourne-borough-council,335feccb-b9e4-4925-b6fa-d51c6896e8dd,Broxbourne Borough Council,pending,2014-05-28T13:44:48.313924,,,True,local-authorities,active,organization,,local-council,,,,,,,,,,,,
 broxtowe-borough-council,c04e176a-f808-4e3d-a702-0bcdedf38bbb,Broxtowe Borough Council,pending,2013-11-04T10:36:45.104729,"http://www.broxtowe.gov.uk/
 ",,True,local-authorities,active,organization,,local-council,,,,,,,,,,,,
 buckinghamshire-county-council,7003c85e-dc20-46a1-9d10-fcb9ce22d019,Buckinghamshire County Council,approved,2012-06-27T14:50:41.638209,,,True,local-authorities,active,organization,,,,,,,,,http://www.whatdotheyknow.com/body/buckinghamshire_county_council,,,,,
@@ -171,6 +172,7 @@ calderdale-council,ac36527f-2037-403a-9021-f335c97d207a,Calderdale Council,appro
 calderdale-metropolitan-borough-council,8f45940b-a372-4709-9119-cf19ac249ede,Calderdale Metropolitan Borough Council,approved,2012-06-27T14:50:08.577384,,,True,local-authorities,active,organization,CMBC,,,,,,,,http://www.whatdotheyknow.com/body/calderdale_council,,,,,
 calderstones-partnership-nhs-foundation-trust,ff941389-5562-4ebf-8409-bc9e7034c411,Calderstones Partnership NHS Foundation Trust,approved,2012-06-27T14:51:12.233275,,,True,national-health-service,active,organization,,,,,,,,,http://www.whatdotheyknow.com/body/calderstones_partnership_nhs_foundation_trust,,,,,
 cambridgeshire-county-council,d0149ce5-e526-4c09-8230-c8cc6a687f6a,Cambridgeshire County Council,approved,2012-06-27T14:49:31.613796,,,True,local-authorities,active,organization,CCC,,,,,,,,http://www.whatdotheyknow.com/body/cambridgeshire_county_council,,,,,
+cambridgeshire-insight,9210eb47-4a5e-4c4a-9edd-8f8466a21f0e,Cambridgeshire Insight,pending,2014-05-19T12:10:18.790087,,,True,cambridgeshire-county-council,active,organization,,local-council,,,,,,,,,,,,
 canal-river-trust,5322f28c-9c7c-440f-8994-c199c3cbe203,Canal & River Trust,pending,2012-10-01T14:38:29.028876,A charitable trust that looks after waterways in England and Wales. Created from British Waterways in July 2012.,,True,department-for-environment-food-and-rural-affairs,active,organization,,alb,customer.services@canalrivertrust.org.uk,,,customer.services@canalrivertrust.org.uk,,,,,,,,
 cannock-chase-district-council,573e860f-7c1b-4e76-a485-b144617533b9,Cannock Chase District Council,pending,2013-11-28T11:54:22.889121,,,True,local-authorities,active,organization,,local-council,,,,,,,,,,,,
 capital-for-enterprise-ltd,6fb3ac24-11d5-4cfb-a516-f6f94da6d029,Capital For Enterprise Ltd,pending,2012-06-27T14:54:58.105768,,,True,department-for-business-innovation-and-skills,active,organization,,,,,,,,,http://www.whatdotheyknow.com/body/cfel,,,,,
@@ -194,6 +196,7 @@ Charity Commission is a non-ministerial department
 
 http://www.charitycommission.gov.uk/
 ",,True,charity-commissions-for-england-and-wales,active,organization,CC,non-core-department,,The Charity Commission for England and Wales contact,,,,,http://www.whatdotheyknow.com/body/charity_commission,,,,The Charity Commission for England and Wales,http://www.charity-commission.gov.uk
+charnwood-borough-council,c73a8493-0c8b-4cd5-b24d-5b75d13d9f0f,Charnwood Borough Council,pending,2014-05-12T16:13:49.466797,,,True,local-authorities,active,organization,,local-council,,,,,,,,,,,,
 chartered-institute-of-public-finance-and-accountancy,d3e2c2a8-2a07-44e6-9a6c-85b3e269a353,Chartered Institute of Public Finance and Accountancy,pending,2012-06-27T14:48:45.610720,"CIPFA, the Chartered Institute of Public Finance and Accountancy, is the professional body for people in public finance. Our 14,000 members work throughout the public services, in national audit agencies, in major accountancy firms, and in other bodies where public money needs to be effectively and efficiently managed.
 
 http://www.cipfa.org/
@@ -709,6 +712,7 @@ kingston-primary-care-trust,7d08f095-6b83-48dd-b2a1-21568c52c14d,Kingston Primar
 kirklees-council,65a77076-ef83-4a6a-87ce-b8864f605a7c,Kirklees Council,approved,2012-06-27T14:50:09.082256,,,True,local-authorities,active,organization,,,,,,,,,http://www.whatdotheyknow.com/body/kirklees_borough_council,,,,,
 kirklees-primary-care-trust,e6168fad-ddd6-4836-8df7-590ff767a415,Kirklees Primary Care Trust,approved,2012-06-27T14:51:57.883514,,,True,national-health-service,active,organization,,,,,,,,,http://www.whatdotheyknow.com/body/nhs_kirklees,,,,,
 knowledge-analytical-services,de0c2d53-5cc1-481e-a3f2-bacad81d6c0b,Knowledge & Analytical Services,approved,2012-06-27T14:55:01.497905,,,True,welsh-government,active,organization,,,,,,,,,,,,,,
+knowsley-borough-council,8ac3ac07-b93a-4b6d-97d7-9b86525d1e86,Knowsley Borough Council,pending,2014-05-12T16:38:48.863417,,,True,local-authorities,active,organization,,local-council,,,,,,,,,,,,
 lake-district-national-park,e7e7fde7-0a36-46a2-8f05-8b44bcb10ba2,Lake District National Park Authority,pending,2013-10-30T12:30:18.199289,,,True,department-for-environment-food-and-rural-affairs,active,organization,,alb,,,,,,,,,,,,
 lambeth-primary-care-trust,3fbe39e8-71dd-4544-a492-ab6ca4cc4e6d,Lambeth Primary Care Trust,approved,2012-06-27T14:51:58.647186,,,True,national-health-service,active,organization,,,,,,,,,http://www.whatdotheyknow.com/body/nhs_lambeth,,,,,
 lancashire-care-nhs-foundation-trust,bd428bb5-297b-47bb-937d-ce8550363556,Lancashire Care NHS Foundation Trust,approved,2012-06-27T14:51:59.359666,,,True,national-health-service,active,organization,,,,,,,,,http://www.whatdotheyknow.com/body/lancashire_care_nhs_foundation_trust,,,,,
@@ -1427,6 +1431,7 @@ sandwell-metropolitan-borough-council,5709cca3-df58-464d-97a5-1aa5c27b3688,Sandw
 sandwell-primary-care-trust,fb60e187-3536-4dee-8026-f656a11f3743,Sandwell Primary Care Trust,approved,2012-06-27T14:53:24.355054,,,True,national-health-service,active,organization,,,,,,,,,http://www.whatdotheyknow.com/body/sandwell_primary_care_trust_pct,,,,,
 sandwell-west-birmingham-hospitals-nhs-trust,2bad8c92-68a4-4ffb-bc27-226a8a90f5ef,Sandwell & West Birmingham Hospitals NHS Trust,approved,2012-06-27T14:53:22.921186,,,True,national-health-service,active,organization,,,,,,,,,http://www.whatdotheyknow.com/body/sandwell_and_west_birmingham_hospitals_nhs_trust,,,,,
 scarborough-and-north-east-yorkshire-healthcare-nhs-trust,38f6d297-f7a6-4e82-b872-58d1cb0e8309,Scarborough and North East Yorkshire Healthcare NHS Trust,approved,2012-06-27T14:53:25.074467,,,True,national-health-service,active,organization,,,,,,,,,http://www.whatdotheyknow.com/body/scarborough_and_north_east_yorkshire_healthcare_nhs_trust,,,,,
+scarborough-borough-council,a061402e-ebcb-4423-a21b-bbdb0ef9b4ad,Scarborough Borough Council,pending,2014-05-19T11:22:20.038613,,,True,local-authorities,active,organization,,local-council,,,,,,,,,,,,
 school-food-trust,ca0457bd-7298-420b-9c33-c4ffb5f6962e,School Food Trust,pending,2012-06-27T14:53:25.494692,"Formerly known as the School Food Trust, we started our work in 2005 and became a registered charity in 2006.
 
 Our children must eat healthily to reach their full potential in life.
