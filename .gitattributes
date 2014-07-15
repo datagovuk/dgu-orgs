@@ -1,0 +1,1 @@
+*.csv merge=coopy-merge-csv diff=coopy-diff-csv
